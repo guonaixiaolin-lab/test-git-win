@@ -1,0 +1,9 @@
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = false
+	keepBackup = false
+[user]
+	name = guonaixiaolin@gmail.com
+	email = guonaixiaolin@gmail.com
